@@ -1,0 +1,81 @@
+{
+  "superHeroes": [
+    {
+      "id": 1,
+      "name": "Batman",
+      "alterego": "Bruce Wayne"
+    },
+    {
+      "id": 2,
+      "name": "SuperMan",
+      "alterego": "Clark Kent"
+    },
+    {
+      "id": 3,
+      "name": "WonderWoman",
+      "alterego": "Princess Diana"
+    },
+    {
+      "id": 4,
+      "name": "IronMan",
+      "alterego": "Chris Mount"
+    }
+  ],
+  "users": [
+    {
+      "userId": 1,
+      "userName": "John Stones"
+    },
+    {
+      "userId": 2,
+      "userName": "Steve Santon"
+    },
+    {
+      "userId": 3,
+      "userName": "lena Dee"
+    },
+    {
+      "userId": 4,
+      "userName": "Kim Phonix"
+    },
+    {
+      "userId": 5,
+      "userName": "Paul Gimi"
+    },
+    {
+      "userId": 6,
+      "userName": "Karma Green"
+    },
+    {
+      "userId": 7,
+      "userName": "Jessica Alba"
+    },
+    {
+      "userId": 8,
+      "userName": "Marchus Eriksen"
+    }
+  ],
+  "courses": [
+    {
+      "userName": "John Stones",
+      "course": [
+        "React",
+        "Figma"
+      ]
+    },
+    {
+      "userName": "Steve Santon",
+      "course": [
+        "Vue",
+        "Angular"
+      ]
+    },
+    {
+      "userName": "lena Dee",
+      "course": [
+        "C#",
+        "Javascript"
+      ]
+    }
+  ]
+}
